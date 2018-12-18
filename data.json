@@ -1,0 +1,27 @@
+[
+  {
+    "distid": 1,
+    "distname": "MLG LLC.",
+    "date_of_joining": "2018-01-19"
+  },
+  {
+    "distid": 2,
+    "distname": "ProLogistics LLC.",
+    "date_of_joining": "2017-02-21"
+  },
+  {
+    "distid": 3,
+    "distname": "JA Distributors",
+    "date_of_joining": "2015-06-02"
+  },
+  {
+    "distid": 4,
+    "distname": "Matrix Inc.",
+    "date_of_joining": "2015-03-29"
+  },
+  {
+    "distid": 5,
+    "distname": "Meta Distributors",
+    "date_of_joining": "2012-10-17"
+  }
+]
