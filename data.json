@@ -5,7 +5,10 @@
     "Currency": "$",
     "Price": 140,
     "Details": "The Vivo V3Max is powered by 1.4GHz octa-core processor and it comes with 4GB of RAM.... The Vivo V3Max is a Dual-SIM (GSM and GSM) smartphone LTPS IPS LCD display",
-    "ImageURL": "https://static.toiimg.com/photo/64428999/Vivo-NEX.jpg"
+    "ImageURL": "https://static.toiimg.com/photo/64428999/Vivo-NEX.jpg",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   },
   {
     "Id": 2,
@@ -13,7 +16,10 @@
     "Currency": "$",
     "Price": 170,
     "Details": "Huawei Honor View 10 Android smartphone. Announced Dec 2017. Features 5.99″ LTPS IPS LCD display, HiSilicon Kirin 970 chipset, Dual: 16 MP (f/1.8) + 20",
-    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1lzy6DifkGwhmDjxZ8LioEWi2yq9CW_q4gKE3DoG2dcn7RbO"
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1lzy6DifkGwhmDjxZ8LioEWi2yq9CW_q4gKE3DoG2dcn7RbO",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   },
   {
     "Id": 2,
@@ -21,7 +27,10 @@
     "Currency": "$",
     "Price": 230,
     "Details": "Huawei Honor View 10 Android smartphone. Announced Dec 2017. Features 5.99″ LTPS IPS LCD display, HiSilicon Kirin 970 ",
-    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk75LAjvOBk4REfTeTN1pVyy4UGIb6EDZD0dVRHSETmmf46qc6nw"
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk75LAjvOBk4REfTeTN1pVyy4UGIb6EDZD0dVRHSETmmf46qc6nw",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   },
   {
     "Id": 2,
@@ -29,7 +38,10 @@
     "Currency": "$",
     "Price": 200,
     "Details": "Huawei Honor View 10 Android smartphone. Announced Dec 2017. Features 5.99″ LTPS IPS LCD display, HiSilicon Kirin 970 chipset, Dual: 16 MP (f/1.8) + 20",
-    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdI3qSWrA591uenlZ4-9ugq5_27NEHsccMrYJGK3g2leM8Vlgbw"
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdI3qSWrA591uenlZ4-9ugq5_27NEHsccMrYJGK3g2leM8Vlgbw",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   },
   {
     "Id": 2,
@@ -37,7 +49,10 @@
     "Currency": "$",
     "Price": 220,
     "Details": "Huawei Honor View 10 Android smartphone. Announced Dec 2017. Features 5.99″ LTPS IPS LCD display, HiSilicon Kirin 970 chipset, Dual: 16 MP ",
-    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzE8Hp3BZEZkKCjg_7WQamUFl0IC7ME7thHI5rxy5mWZVqA2Y"
+    "ImageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzE8Hp3BZEZkKCjg_7WQamUFl0IC7ME7thHI5rxy5mWZVqA2Y",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   },
   {
     "Id": 3,
@@ -45,6 +60,9 @@
     "Currency": "$",
     "Price": 700,
     "Details": "The Samsung Galaxy S9 offers a 5.8 inch Quad HD+ AMOLED Display that ... The Galaxy S9 captures 4x as many frames per second LTPS IPS LCD display",
-    "ImageURL": "https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11918-55-1.jpg"
+    "ImageURL": "https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11918-55-1.jpg",
+	"Qty":1,
+	"IsRemove": false,
+	"Total": 0
   }
 ]
