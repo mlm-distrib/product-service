@@ -22,7 +22,7 @@
 	"Total": 0
   },
   {
-    "Id": 2,
+    "Id": 3,
     "Name": "LG G7 ThinQ",
     "Currency": "$",
     "Price": 230,
@@ -33,7 +33,7 @@
 	"Total": 0
   },
   {
-    "Id": 2,
+    "Id": 4,
     "Name": "Oppo Find X 8/",
     "Currency": "$",
     "Price": 200,
@@ -44,7 +44,7 @@
 	"Total": 0
   },
   {
-    "Id": 2,
+    "Id": 5,
     "Name": "Vivo V9+",
     "Currency": "$",
     "Price": 220,
@@ -55,7 +55,7 @@
 	"Total": 0
   },
   {
-    "Id": 3,
+    "Id": 6,
     "Name": "Samsung S9",
     "Currency": "$",
     "Price": 700,
